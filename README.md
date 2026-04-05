@@ -1,7 +1,11 @@
-<h1 align="center">Eduardo Reis</h1>
+<h1 align="center">Olá, eu sou o Eduardo Reis 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6EE7FF&size=24&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Development;Java+%26+Python;AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4FD1C5&size=24&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Development;Java+%26+Python;AI+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -9,9 +13,9 @@
 ## <p align="center">🧠 Sobre mim</p>
 
 <p align="center">
-Sou estudante de Ciência da Computação, focado no desenvolvimento de software e construção de sistemas com Inteligência Artificial.<br>
+Sou estudante de Ciência da Computação, com foco no desenvolvimento de software e na construção de sistemas com Inteligência Artificial.<br>
 Tenho direcionado minha evolução para backend, APIs e organização de sistemas, sempre aplicando na prática o que aprendo.<br>
-Acredito em aprender construindo — evoluindo através de projetos reais e melhoria contínua.
+Acredito no aprendizado através da construção — evoluindo com projetos e experiência real.
 </p>
 
 ---
@@ -39,27 +43,8 @@ Acredito em aprender construindo — evoluindo através de projetos reais e melh
 | 🧠 Estrutura | OOP, modularização, organização de sistemas |
 | 🗄️ Dados | SQL, PostgreSQL |
 | ⚙️ Ferramentas | VS Code, IntelliJ, PyCharm |
-| 🌎 Idiomas | Português (Nativo), Inglês (Avançado) |
+| 🌎 Idiomas | Português, Inglês |
 
-</p>
-
----
-
-## <p align="center">🚀 Projetos</p>
-
-<p align="center">
-🤖 Jarvis (Assistente Inteligente)<br>
-🌐 Integração com APIs<br>
-🎮 Projetos em Python
-</p>
-
----
-
-## <p align="center">📊 Estatísticas</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=reeisdu&show_icons=true&theme=tokyonight&hide_border=true&title_color=6EE7FF&icon_color=6EE7FF"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeisdu&layout=compact&theme=tokyonight&hide_border=true&title_color=6EE7FF"/>
 </p>
 
 ---
@@ -68,6 +53,6 @@ Acredito em aprender construindo — evoluindo através de projetos reais e melh
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reeisdu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
