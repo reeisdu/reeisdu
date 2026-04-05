@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Eduardo 👋
 
-<!--
-**reeisdu/reeisdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer focused on Backend Development  
+🚀 Building systems with Java & Python  
+📍 São Paulo, Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Computer Science student  
+- Passionate about building real systems  
+- Focused on backend, APIs and AI  
+- Learning by doing (projects + practice)
+
+---
+
+## ⚙️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![API](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge)
+
+---
+
+## 🚀 Projects
+
+- 🤖 Jarvis AI Assistant  
+- 🌎 API Integrations  
+- 🎮 Python Projects  
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
