@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
-
 <h1 align="center">Olá, eu sou o Eduardo Reis</h1>
 
 <p align="center">
@@ -13,7 +9,7 @@
 ## Sobre mim
 
 <p align="center">
-Sou estudante de Ciência da Computação, com foco no desenvolvimento de software e na construção de sistemas com Inteligência Artificial.<br>
+Sou estudante de Ciência da Computação, focado no desenvolvimento de software e na construção de sistemas com Inteligência Artificial.<br>
 Tenho direcionado minha evolução para backend, APIs e organização de sistemas, sempre aplicando na prática o que aprendo.<br>
 Acredito no aprendizado através da construção — evoluindo com projetos e experiência real.
 </p>
@@ -23,52 +19,25 @@ Acredito no aprendizado através da construção — evoluindo com projetos e ex
 ## Tecnologias
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ---
 
-## Minhas Competências
+## Competências
 
 <p align="center">
 
-<table>
-<tr>
-<th>Área</th>
-<th>Competências</th>
-</tr>
-
-<tr>
-<td align="center">Backend</td>
-<td align="center">Java, Python, APIs REST</td>
-</tr>
-
-<tr>
-<td align="center">Estrutura</td>
-<td align="center">OOP, modularização, organização de sistemas</td>
-</tr>
-
-<tr>
-<td align="center">Dados</td>
-<td align="center">SQL, PostgreSQL</td>
-</tr>
-
-<tr>
-<td align="center">Ferramentas</td>
-<td align="center">VS Code, IntelliJ, PyCharm</td>
-</tr>
-
-<tr>
-<td align="center">Idiomas</td>
-<td align="center">Português, Inglês</td>
-</tr>
-
-</table>
+Backend → Java, Python, APIs REST  
+Arquitetura → OOP, modularização, organização de sistemas  
+Dados → SQL, PostgreSQL  
+Ferramentas → VS Code, IntelliJ, PyCharm  
+Idiomas → Português, Inglês  
 
 </p>
 
@@ -78,6 +47,6 @@ Acredito no aprendizado através da construção — evoluindo com projetos e ex
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reeisdu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38"/>
   </a>
 </p>
