@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="t d">
+  <title id="t">Eduardo Reis</title>
+  <desc id="d">Computer Science student. Focus areas: Software Engineering, Backend Development, Java · Python, C · C++ · Systems, Automation, AI Systems · LLMs, AI Infrastructure.</desc>
+  <style>
+.lbl{font:600 13px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#7d8fa6;letter-spacing:2.2px}
+.name{font:700 46px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#e6edf3;letter-spacing:.3px}
+.mono{font:500 22px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.pr{fill:#5b95d8}
+.w{fill:#c9d6e8;opacity:0;animation:rot 16.8s infinite both}
+@keyframes rot{
+ 0%{opacity:0;transform:translateY(8px)}
+ 2.08%{opacity:1;transform:translateY(0)}
+ 12.20%{opacity:1;transform:translateY(0)}
+ 14.29%{opacity:0;transform:translateY(-8px)}
+ 100%{opacity:0;transform:translateY(-8px)}
+}
+.bar{transform-box:fill-box;transform-origin:left center;animation:prog 2.4s linear infinite}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.w,.bar{animation:none}.w0{opacity:1}}
+</style>
+  <defs><clipPath id="card"><rect x="0" y="0" width="960" height="240" rx="12"/></clipPath></defs>
+  <rect x="0.5" y="0.5" width="959" height="239" rx="12" fill="#0d1117" stroke="#1f2937"/>
+  <rect x="0" y="0" width="4" height="240" fill="#1d4e89" clip-path="url(#card)"/>
+  <text class="lbl" x="48" y="64">COMPUTER SCIENCE STUDENT  ·  SÃO PAULO, BRAZIL</text>
+  <text class="name" x="46" y="120">Eduardo Reis</text>
+  <rect x="48" y="138" width="64" height="3" rx="1.5" fill="#1d4e89"/>
+  <text class="mono pr" x="48" y="186">›</text>
+  <text class="mono w w0" x="78" y="186" style="animation-delay:0.0s">Software Engineering</text>
+  <text class="mono w w1" x="78" y="186" style="animation-delay:2.4s">Backend Development</text>
+  <text class="mono w w2" x="78" y="186" style="animation-delay:4.8s">Java · Python</text>
+  <text class="mono w w3" x="78" y="186" style="animation-delay:7.2s">C · C++ · Systems</text>
+  <text class="mono w w4" x="78" y="186" style="animation-delay:9.6s">Automation</text>
+  <text class="mono w w5" x="78" y="186" style="animation-delay:12.0s">AI Systems · LLMs</text>
+  <text class="mono w w6" x="78" y="186" style="animation-delay:14.4s">AI Infrastructure</text>
+  <rect x="78" y="202" width="220" height="2" rx="1" fill="#1b2533"/>
+  <rect class="bar" x="78" y="202" width="220" height="2" rx="1" fill="#2f6db5"/>
+  <g stroke="#1d4e89" stroke-width="1.2" opacity=".55"><line x1="740" y1="70" x2="820" y2="95"/><line x1="740" y1="70" x2="820" y2="145"/><line x1="740" y1="120" x2="820" y2="95"/><line x1="740" y1="120" x2="820" y2="145"/><line x1="740" y1="170" x2="820" y2="95"/><line x1="740" y1="170" x2="820" y2="145"/><line x1="820" y1="95" x2="900" y2="120"/><line x1="820" y1="145" x2="900" y2="120"/></g>
+  <g fill="#0d1117" stroke="#3f7cc4" stroke-width="1.6" opacity=".8"><circle cx="740" cy="70" r="5"/><circle cx="740" cy="120" r="5"/><circle cx="740" cy="170" r="5"/><circle cx="820" cy="95" r="5"/><circle cx="820" cy="145" r="5"/><circle cx="900" cy="120" r="5"/></g>
+</svg>
