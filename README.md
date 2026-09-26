@@ -11,11 +11,15 @@
 
 I'm a Computer Science student at Cruzeiro do Sul University (São Paulo, Brazil), building a solid foundation in software engineering and applying it to systems that integrate AI with real software.
 
-My path started with computer science fundamentals — programming in C, data structures, algorithms, databases, networking and operating systems. Java became my main language for learning **software engineering properly**: object-oriented design, abstraction, encapsulation, composition and a clear separation of responsibilities between components.
+I started programming with **Python**. **Java** and **C** then came in parallel as part of my Computer Science degree. Today, **Java** is the core language of my software engineering development — object-oriented design, software design and backend foundations. **Python** complements that base for automation, AI integration and LLM-based applications, while **C** contributes to my programming fundamentals and low-level concepts, such as memory and how code relates to the system underneath it.
 
-Python is where much of that turned into working software. I've built a **voice-driven AI assistant** (Whisper speech recognition, an LLM for responses, text-to-speech and OS-level automation) and a **browser automation system** with Playwright and LLM integration that runs real workflows on a live e-commerce platform. Those projects taught me what tutorials don't: handling application state, debugging against real interfaces and fixing issues that only appear in real use.
+At first, I was mainly learning languages and building programs. Over time — through Computer Science and the projects I've built — the way I think about software changed. I started paying attention to how components are organised, how responsibilities are separated and why different technologies play different roles in the same system: how APIs connect systems, how external services are integrated, how automation interacts with real software, how LLMs can be one part of a larger system, how agents can interact with tools, and how architecture affects performance, reliability and scalability.
 
-Building those systems made me more interested in the layer underneath them — how software is architected, how components communicate, how memory, concurrency and latency affect performance, and how AI applications run reliably. That is why I'm steadily moving towards **backend engineering, system architecture and AI Infrastructure Engineering**, with C++ as part of my path into systems programming.
+That shift shows in what I've built: a **voice-driven AI assistant** in Python (Whisper, an LLM, text-to-speech and OS-level automation), a **browser automation system** with Playwright and LLM integration that runs real workflows on a live e-commerce platform, and Java prototypes exploring layered design and AI agents.
+
+It also defines where I'm heading: **backend engineering and system architecture**, **AI systems**, and — progressively — **AI Infrastructure Engineering**, the layer that makes AI applications run reliably and efficiently, with C++ as part of my path into systems programming.
+
+`Python` → `Java + C` → `Software Engineering` → `Backend & System Architecture` → `Automation & AI Systems` → `AI Infrastructure`
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
